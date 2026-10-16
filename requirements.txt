@@ -1,0 +1,17 @@
+streamlit>=1.60
+plotly>=6.0
+trackpy>=0.7
+scikit-image>=0.24
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+matplotlib>=3.8
+tifffile>=2024.1
+Pillow>=10.0
+imageio>=2.34
+imageio-ffmpeg>=0.5
+# Groupes de comportement des traceurs (mélange de gaussiennes, section Homogénéité)
+scikit-learn>=1.4
+# Optionnel : flux optique Farneback, 15-20× plus rapide que Lucas-Kanade (scikit-image)
+opencv-python-headless>=4.8
+pytest>=8.0

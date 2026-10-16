@@ -1,0 +1,14 @@
+[server]
+# Taille max d'un envoi de fichiers (Mo)
+maxUploadSize = 4096
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#2B5C7E"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F2F6F8"
+textColor = "#1B2A33"
+font = "sans serif"
